@@ -650,6 +650,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(0 255 247 / var(--tw-text-opacity));
 }
 
+.hover\:cursor-pointer:hover {
+  cursor: pointer;
+}
+
 .group:active .group-active\:flex {
   display: flex;
 }
